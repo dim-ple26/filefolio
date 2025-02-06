@@ -1,2 +1,2 @@
 # filefolio
-a simple file management system
+a simple file management system which manage files
